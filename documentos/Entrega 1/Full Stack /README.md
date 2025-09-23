@@ -48,6 +48,43 @@ Para visualizar a aplicação em funcionamento, assista ao vídeo demonstrativo 
 
 ---
 
+---
+
+## 📡 Rotas da API
+
+A API do **ESC Monitoring System** oferece endpoints REST para gerenciamento de **atividades** e **equipes**.
+
+### 🔹 Atividades
+- `GET /api/atividades` → lista todas as atividades  
+- `GET /api/atividades/:id` → retorna uma atividade pelo ID  
+- `POST /api/atividades` → cria uma nova atividade  
+- `PUT /api/atividades/:id` → atualiza uma atividade existente  
+- `DELETE /api/atividades/:id` → remove uma atividade  
+
+### 🔹 Equipes
+- `GET /api/equipes` → lista todas as equipes  
+- `GET /api/equipes/:id` → retorna uma equipe pelo ID  
+- `POST /api/equipes` → cria uma nova equipe  
+- `PUT /api/equipes/:id` → atualiza uma equipe existente  
+- `DELETE /api/equipes/:id` → remove uma equipe  
+
+### 🔹 Exemplos de Respostas
+**Exemplo – GET /api/atividades**
+```json
+[
+  {
+    "id": 1,
+    "nome": "Campanha Solidária",
+    "tipo": "Evento",
+    "descricao": "Arrecadação de alimentos",
+    "status": "Em andamento",
+    "meta_financeira": 2000,
+    "valor_arrecadado": 750,
+    "equipe_id": 2
+  }
+]
+
+
 ## 🤝 Contribuição
 
 1. Faça um fork do projeto.  
