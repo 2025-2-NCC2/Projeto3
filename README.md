@@ -16,7 +16,7 @@
 
 <p align="center">
   <img 
-    src="https://github.com/Tetefanii/Testando/blob/main/Captura%20de%20tela%202025-10-09%20192532.png?raw=true" 
+    src="https://snipboard.io/qoRlNt.jpg" 
     alt="Lideranças Empáticas" 
     border="0">
   <br>
