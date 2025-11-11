@@ -276,10 +276,6 @@ Assista ao vídeo abaixo para uma demonstração completa das funcionalidades do
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto.
-
 1. <https://liderancasempaticas.com/>
-<<<<<<< HEAD
-=======
 2. <https://www.linkedin.com/company/projeto-lideran%C3%A7as-emp%C3%A1ticas/>
 3. <https://www.instagram.com/liderancasempaticas/>
->>>>>>> 86be2bd6fb2754d8cf386546cb2a3b07ffdf61c8
