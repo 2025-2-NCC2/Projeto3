@@ -34,16 +34,28 @@ Por meio da plataforma, os usuários podem cadastrar alunos, equipes e campanhas
 
 -Raiz<br>
 <pre>
-  
 .
-── entregas
-   ├── documentos
-   │   ├── Entrega 1
-   │   └── Entrega 2
-   ├── imagens
-   └── src
-       ├── Entrega 1
-       └── Entrega 2
+├── documento
+│   ├── Entrega 1
+│   │   ├── Banco de Dados
+│   │   ├── Cálculo II
+│   │   ├── Full Stack
+│   │   ├── Gestão Empresarial
+│   │   └── Projeto Intedisplinar
+│   └── Entrega 2
+│       ├── Banco de Dados
+│       ├── Calculo II
+│       ├── Full Stack
+│       ├── Gestão Empresarial
+│       └── Projeto Interdiciplinar
+├── imagens
+└── src
+    ├── Entrega 1
+    │   ├── Backend
+    │   └── Frontend
+    └── Entrega 2
+        ├── Backend
+        └── Frontend
 </pre>
 
 ## 🛠 Instalação
