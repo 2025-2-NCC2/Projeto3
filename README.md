@@ -50,7 +50,7 @@ Por meio da plataforma, os usuários podem cadastrar alunos, equipes e campanhas
 
 <b>HTML:</b>
 
-Link do projeto: https://stunning-paletas-cbe215.netlify.app/
+Link do projeto: [https://stunning-paletas-cbe215.netlify.app/](https://tubular-tanuki-904672.netlify.app/)
 
 ## 💻 Configuração para Desenvolvimento
 
